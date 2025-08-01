@@ -1,0 +1,12 @@
+flask
+werkzeug
+opencv-python
+numpy
+face_recognition
+Pillow
+requests
+rembg
+mediapipe
+deepface
+Jinja2
+torch==2.7.0
